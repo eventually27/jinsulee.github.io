@@ -17,9 +17,9 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+#  - title: Feed
+#    url: /feed.xml
+email: eventually27@gmail.com
 disqus_username: disqus_username
 
 
