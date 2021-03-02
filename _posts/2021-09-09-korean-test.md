@@ -1,27 +1,16 @@
-
 ---
-date: 2021-09-09 12:26:40
+date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: life
+title: Welcome to the desert of the real
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
+image : 
+category: blog
 tags:
-  - books
-  - read
+  - welcome
+  - blog
 author: thiagorossener
 paginate: true
 ---
-
-# 한글도 잘써지는지 확인
-## 잘써짐?
-### 잘써짐
-
-
-
-
-
-
-
-
-
