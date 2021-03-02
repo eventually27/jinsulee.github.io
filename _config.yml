@@ -1,8 +1,7 @@
 # Site Settings
 name: JinSuLee
 title: JinSuLee | A blog for daily life
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: 
 tags:
   - blog
   - template
@@ -17,8 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-#  - title: Feed
-#    url: /feed.xml
+  - title: Feed
+    url: /feed.xml
 email: eventually27@gmail.com
 disqus_username: disqus_username
 
