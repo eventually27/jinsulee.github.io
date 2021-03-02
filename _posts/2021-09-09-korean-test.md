@@ -1,6 +1,6 @@
 
 ---
-date: 2021-09-10 12:26:40
+date: 2021-09-09 12:26:40
 layout: post
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
