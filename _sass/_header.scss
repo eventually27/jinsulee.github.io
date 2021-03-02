@@ -86,22 +86,22 @@ body {
     margin: rem(5px);
   }
 
-  .get-theme {
-    display: none;
-    font-size: rem(13px);
-    font-weight: bold;
-    text-decoration: none;
-    background-color: $themeColor;
-    color: $accentDark;
-    padding: rem(5px) rem(10px);
-    border-radius: rem(5px);
-    float: right;
-    margin: rem(5px) rem(15px) rem(5px) rem(5px);
+  // .get-theme {
+  //   display: none;
+  //   font-size: rem(13px);
+  //   font-weight: bold;
+  //   text-decoration: none;
+  //   background-color: $themeColor;
+  //   color: $accentDark;
+  //   padding: rem(5px) rem(10px);
+  //   border-radius: rem(5px);
+  //   float: right;
+  //   margin: rem(5px) rem(15px) rem(5px) rem(5px);
 
-    @include media(">=sm") {
-      display: inline-block;
-    }
-  }
+  //   @include media(">=sm") {
+  //     display: inline-block;
+  //   }
+  // }
 }
 
 body.main-page {
