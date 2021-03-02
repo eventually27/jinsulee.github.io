@@ -1,7 +1,8 @@
 # Site Settings
-name: JinSuLee
-title: JinSuLee | A blog for daily life
-description: tt.
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
 tags:
   - blog
   - template
@@ -16,19 +17,20 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-
-email: eventually27@gmail.com
+  - title: Feed
+    url: /feed.xml
+email: youremail@test.com
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: eventually27
-#facebook_username: facebook_username
-#twitter_username: twitter_username
-#instagram_username: instagram_username
-linkedin_username: eventually27
-#medium_username: medium_username
+github_username: github_username
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
 
 
 # Posts Settings
